@@ -1,5 +1,5 @@
 -- CRETAE TABLE
-CREATE TABLE employee (
+CREATE TABLE employees (
     name VARCHAR(100),
     age INT,
     email VARCHAR(100),
